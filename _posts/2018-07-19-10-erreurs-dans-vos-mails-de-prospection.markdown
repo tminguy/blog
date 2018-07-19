@@ -71,7 +71,7 @@ Il va falloir me montrer que vous êtes véritablement détenteur d'un produit �
  
 ## 7. Heu c'est quoi cette image ?
 
-Ce que vous dites dans votre mail est important, mais votre signature l'est aussi ! Alors, dites adieu à l'image statique et toute pixelisée. Il vous faut quelque chose alliant simplicité et modernité. N'en faites pas trop en faire non plus, votre signature ne doit pas détourner l'attention de votre lecteur, elle doit apparaître comme la conclusion logique du mail avec un call action redirigeant vers une landing page spécifique, vers une page pour prendre un rendez-vous, etc.
+Ce que vous dites dans votre mail est important, mais votre signature l'est aussi ! Alors, dites adieu à l'image statique et toute pixelisée. Il vous faut quelque chose alliant simplicité et modernité. N'en faites pas trop non plus, votre signature ne doit pas détourner l'attention de votre lecteur, elle doit apparaître comme la conclusion logique du mail avec un call action redirigeant vers une landing page spécifique, vers une page pour prendre un rendez-vous, etc.
 
 
 ## 8. "N'hésitez pas…"
