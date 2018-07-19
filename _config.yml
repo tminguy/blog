@@ -104,7 +104,7 @@ author:
   avatar           : "/assets/images/bio.jpg"
   bio              : "Growth Marketer chez Cellenza - Consultant Marketing automation, Pardot et Salesforce"
   location         : "Paris"
-  email            :
+  email            : "thomas.minguy@cellenza.com"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
