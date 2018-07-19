@@ -3,7 +3,7 @@ layout: posts
 lang: fr
 title:  "10 erreurs dans vos mails de prospection (que je ne supporte plus…)"
 date:   2018-07-19 15:23:34 +0200
-categories: bonnes pratiques
+categories: bonnes-pratiques
 header:
   overlay_image: /assets/images/headers/erreurs.jpg
   og_image: /assets/images/headers/erreurs.jpg
