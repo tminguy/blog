@@ -27,7 +27,7 @@ Lorsque l'on envoie un email, le plus important c'est de le personnalier au maxi
 
 > "Bonjour Monsieur, ..." 
 
-Personnifier c'est la clé pour que votre mail soit lu et qu'il puisse capter l'attention de votre lecteur. Outre le nom, parlez de sa société, encore une fois c'est une information facile à trouver et à incorporer. Si vous utilisez une solution pour gérer votre cold emailing, bien souvent il suffit juste d'importer l'information depuis votre CRM via un système de token.
+Personnaliser c'est la clé pour que votre mail soit lu et qu'il puisse capter l'attention de votre lecteur. Outre le nom, parlez de sa société, encore une fois c'est une information facile à trouver et à incorporer. Si vous utilisez une solution pour gérer votre cold emailing, bien souvent il suffit juste d'importer l'information depuis votre CRM via un système de token.
 
  
 ## 2. Et sinon je fais quoi ?
