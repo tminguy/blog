@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: About
+title: Présentation
 permalink: /about/
 header:
   overlay_image: /assets/images/headers/about.jpg

@@ -2,6 +2,7 @@
 layout: posts
 lang: fr
 title:  "10 erreurs dans vos mails de prospection (que je ne supporte plus…)"
+excerpt: 'Pourquoi il faut repenser votre prospection'
 date:   2018-07-19 15:23:34 +0200
 categories: bonnes-pratiques
 comments: true
