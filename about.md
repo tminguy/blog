@@ -1,5 +1,5 @@
 ---
-layout: splash
+layout: single
 title: Présentation
 permalink: /about/
 header:
@@ -8,7 +8,8 @@ header:
   og_image_width: 1280
   og_image_height: 480
 excerpt: 'Growth Marketing, Marketing automation, CRM et bonnes pratiques.'
-
+comments: false
+author_profile: true
 ---
 
 # Qui suis-je ? Où vais-je ? Qu'est-ce qu'on mange à midi ?
