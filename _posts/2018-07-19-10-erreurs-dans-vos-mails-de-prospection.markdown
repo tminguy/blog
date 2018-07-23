@@ -13,6 +13,7 @@ header:
   og_image_height: 480
   caption: "Photo credit: [Parks and recreation]"
 comments: true
+share: true
 ---
 
 Qui n'a jamais reçu de mail de prospection dans sa boite mail ? Vous savez, ce fameux mail sorti de nulle part et qui vous promet monts et merveilles grâce à LA solution miracle de cette entreprise dont vous n'avez jamais entendu parler.

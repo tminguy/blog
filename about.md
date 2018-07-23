@@ -1,18 +1,18 @@
 ---
 layout: single
-title: Thomas Minguy - Marketeur / Historien
+title: Thomas Minguy
 permalink: /about/
 header:
   overlay_image: /assets/images/headers/about.jpg
   og_image: /assets/images/headers/about.jpg
   og_image_width: 1280
   og_image_height: 480
-excerpt: 'Growth Marketing, Marketing automation, CRM et bonnes pratiques.'
+excerpt: ' Marketeur / Historien'
 comments: false
 author_profile: true
 ---
 
-# Makrteur "slash" Historien
+## Maketeur "slash" Historien
 
 Salut à toi, ô internet intrépide ! Si tu es arrivé sur cette page c'est que tu souhaites êut être en savoir un peu plus sur moi ?
 
